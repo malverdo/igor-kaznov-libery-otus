@@ -1,1 +1,6 @@
-# igor-kaznov-libery-otus
+# Libery
+
+# Require
+```
+composer require cases/igor-kaznov-library-otus
+```
