@@ -1,4 +1,4 @@
-# Libery
+# Library
 
 # Require
 ```
